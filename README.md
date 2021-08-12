@@ -32,6 +32,15 @@ Une [organisation GitHub](https://github.com/readthejam) a été créée afin de
 du code source des jeux au moment de leur rendu.
 
 Voici la liste des jeux rendus à cette gamejam :
+<!-- - Nom ([itch.io - rendu]() | [itch.io - page du jeu]() | [git]() | [git backup]()) -->
 - Cuire le steak ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1155953) | [itch.io - page du jeu](https://vedery.itch.io/cuire-le-steak) | [git](https://github.com/Vedery/cuire-le-steak) | [git backup](https://github.com/readthejam/2021-08-cuire-le-steak))
 
-...
+- Ni chaud ni froid the game ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1156357) | [itch.io - page du jeu](https://asakosan.itch.io/ni-chaud-ni-froid-the-game) | [git](https://github.com/DonAsako/NiChaudNiFroid) | [git backup](https://github.com/readthejam/2021-08-ni-chaud-ni-froid))
+
+- Labyrinthe ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1156697) | [itch.io - page du jeu](https://pydevpro.itch.io/labyrinthe) | [git](https://github.com/codesuperr/labyrinthe) | [git backup](https://github.com/readthejam/2021-08-labyrinthe))
+
+- Devine la température ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1156860) | [itch.io - page du jeu](https://notoverflow.itch.io/devine-la-temperature) | [git](https://github.com/notoverflow/queltemprature) | [git backup](https://github.com/readthejam/2021-08-quelle-temperature))
+
+- Slimey ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1156926) | [itch.io - page du jeu](https://il-totore.itch.io/slimey) | [git](https://github.com/Iltotore/slimey) | [git backup](https://github.com/readthejam/2021-08-slimey))
+
+- Dori from wish ([itch.io - rendu](https://itch.io/jam/readthejam/rate/1156936) | [itch.io - page du jeu](https://akito-sama.itch.io/dori-from-wish) | [git](https://github.com/akito-sama/swimming-fish) | [git backup](https://github.com/readthejam/2021-08-swimming-fish))
